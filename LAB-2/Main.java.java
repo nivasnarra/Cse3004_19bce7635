@@ -1,4 +1,3 @@
-package Friend_Exam;
 
 import java.util.*;
 class Main
